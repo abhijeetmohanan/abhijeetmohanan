@@ -1,17 +1,34 @@
-### Hello <img src="https://media.tenor.com/Og0XNCa_vo8AAAAi/qoobee-hi.gif" width="30px">
+###
 -------
 
 <!--
   Timeless Document
 -->
 <div align=center>
-I am <b>Abhijeet Mohanan</b> and I'm a tinkerer.
+Hello <img src="https://media.tenor.com/Og0XNCa_vo8AAAAi/qoobee-hi.gif" width="300px"> </p>
+
+
+I am <b>Abhijeet Mohanan</b> and I'm a tinkerer. 
 
 🌱 I’m currently learning **Golang** <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="20px">
 
 ## 💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,bash,gitlab,grafana,py,terraform,raspberrypi,arduino&perline=5)](https://skillicons.dev)
+<!--
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+### Scripting / Programming Language
+[![My Skills](https://skillicons.dev/icons?i=bash,py,hcl)](https://skillicons.dev)
+
+### Containerization 
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
+### Boards 
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,bash,gitlab,grafana,py,terraform,raspberrypi,arduino)](https://skillicons.dev)
 
 ## 📖 My Blogs:
 <p>
